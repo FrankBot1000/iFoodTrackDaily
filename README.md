@@ -55,7 +55,7 @@ Currently, the mac version has more features, like file saving/exporting capabil
  -->
 
 # Rebuilding a macOS AppKit project as an iPadOS SwiftUI project...
-iFoodTrack was originally designed and built for macOS using Swift, AppKit and Programmatic-UI. It's navigation layout and complexity favours a desktop-style window application. I finally gave in to the many requests for the iPad version, and decided to start from the ground up using SwiftUI. It was an opportunity to give the App a fresh start that demanded a more simplified layout on the iPad. It was an opportunity to give the App a fresh start with a more simplified layout and implement an intuitive touch interface for the iPad. It was also a chance to implement SwiftUI-like declarative programming paradigms.
+iFoodTrack was originally designed and built for macOS using Swift, AppKit and Programmatic-UI. It's navigation layout and complexity favours a desktop-style window application. I finally gave in to the many requests for the iPad version, and decided to start from the ground up using SwiftUI. It was an opportunity to give the App a fresh start that demanded a more simplified layout on the iPad.It was also a chance to implement SwiftUI-like declarative programming paradigms.
 
 I assumed that there would be brick walls to break through, given the newer nature of SwiftUI, but that using this declarative programming style, with less UI code writing, would compensate for the slow downs in development. It was definitely challenging at the start, when switching from the more traditional imperative programming style, but overall the processes has been a good learning experience.
 <br></br>

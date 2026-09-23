@@ -396,7 +396,6 @@ struct ThickProgressViewStyle: ProgressViewStyle {
 
 
 # Future Considerations
-* More Swift Charts, with trends over time.
 * Implement Core Data's CloudKit syncing
 <br></br>
 
